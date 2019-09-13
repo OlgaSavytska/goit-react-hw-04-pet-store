@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-pet-store/static/css/main.bfadd3b9.chunk.css",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.26aeded9.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.26aeded9.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.16247d91.js",
+    "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.16247d91.js.map",
+    "static/js/2.8183fc0b.chunk.js": "/goit-react-hw-04-pet-store/static/js/2.8183fc0b.chunk.js",
+    "static/js/2.8183fc0b.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/2.8183fc0b.chunk.js.map",
+    "index.html": "/goit-react-hw-04-pet-store/index.html",
+    "precache-manifest.df00f0d1790017960bb8b3a0a084d290.js": "/goit-react-hw-04-pet-store/precache-manifest.df00f0d1790017960bb8b3a0a084d290.js",
+    "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
+    "static/css/main.bfadd3b9.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.bfadd3b9.chunk.css.map"
+  }
+}
