@@ -1,0 +1,16 @@
+.nav {
+  margin: 0px 0px 10px 0px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+  padding: 30px;
+  background-color: bisque;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.k {
+  color: grey;
+  text-decoration: none;
+}
